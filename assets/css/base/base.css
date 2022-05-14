@@ -1,6 +1,3 @@
-@import url(assets/css/base/_variaveis.css);
-@import url(assets/css/base/_reset.css);
-
 body {
   font-family: var(--familiaCorpo);
   font-size: var(--tamanhoCorpo);
