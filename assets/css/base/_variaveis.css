@@ -1,0 +1,21 @@
+:root{
+  --white: #FFFFFF;
+  --gray: #C4C4C4;
+  --black: #000000;
+  --blackShadow: #0000000F;
+  --yellow: #FFCB47;
+  --yellowShadow: #FFCB473D;
+  
+
+  --familiaCorpo: 'Montserrat', sans-serif;
+  --familiaTituloDestaque: 'Elsie Swash Caps', serif;
+
+  --pesoTituloDestaque: 900;
+  --pesoBotao: 700;
+  --pesoDestaque: 700;
+
+  --tamanhoCorpo: 1rem;
+  --tamanhoTitulo: 1.375rem;
+  --tamanhoTituloDestaque: 2rem;
+  --tamanhoDestaque: 1.375;
+}
